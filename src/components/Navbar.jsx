@@ -30,7 +30,7 @@ function Navbar(){
         {links.map(l=><a key={l.l} href={l.h} onClick={()=>setOpen(false)} className="py-4 text-lg font-medium border-b" style={{color:'var(--text)',borderColor:'var(--border)'}}>{l.l}</a>)}
         <div className="flex gap-3 mt-6">
           <a href={DATA.personal.github} target="_blank" className="flex-1 text-center py-3 rounded-xl text-sm font-medium" style={{border:'1px solid var(--border)',color:'var(--text)'}}>GitHub</a>
-          <a href={`mailto:${DATA.personal.email}`} className="flex-1 text-center py-3 rounded-xl text-sm font-medium text-white" style={{background:'var(--accent)'}}>Hire Me</a>
+          <a href="#contact" className="flex-1 text-center py-3 rounded-xl text-sm font-medium text-white" style={{background:'var(--accent)'}}>Hire Me</a>
         </div>
       </div>
     )}
