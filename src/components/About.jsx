@@ -11,7 +11,7 @@ function About(){
         </div>
         <div className="grid md:grid-cols-2 gap-12 items-start">
           <div>
-            <p className="text-base leading-relaxed mb-4" style={{color:'var(--muted)'}}>I'm a final-year B.Tech Computer Science student (2026) from Ongole, Andhra Pradesh. Over the past year I've been building and shipping full-stack web applications — not just following tutorials, but solving real problems end to end.</p>
+            <p className="text-base leading-relaxed mb-4" style={{color:'var(--muted)'}}>I'm a B.Tech Computer Science graduate (2026) from Ongole, Andhra Pradesh. Over the past year I've been building and shipping full-stack web applications — not just following tutorials, but solving real problems end to end.</p>
             <p className="text-base leading-relaxed mb-4" style={{color:'var(--muted)'}}>My most recent project, <span className="text-white font-semibold">Local Service Hub</span>, integrates Google Gemini AI to automatically match customer problems to services. It has three different user roles, a category approval workflow, and a full booking system — all built solo from scratch.</p>
             <p className="text-base leading-relaxed mb-8" style={{color:'var(--muted)'}}>I completed a virtual internship at <span className="text-white font-semibold">EduSkills Foundation (AICTE)</span> and hold certifications in Full Stack MERN and AWS Cloud (Grade O — Outstanding). I'm actively looking for internship or entry-level Software Developer roles.</p>
             <div className="grid grid-cols-2 gap-3">

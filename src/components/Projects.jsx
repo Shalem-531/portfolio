@@ -8,7 +8,7 @@ function Projects(){
         <div className="mb-14">
           <p className="text-sm font-semibold mb-2" style={{color:'var(--accent)'}}>What I've Built</p>
           <h2 className="font-display text-4xl font-bold text-white mb-3">Featured Projects</h2>
-          <p className="text-base max-w-lg" style={{color:'var(--muted)'}}>Both projects are live and deployed — built end-to-end, solo, from scratch.</p>
+          <p className="text-base max-w-lg" style={{color:'var(--muted)'}}>My projects are live and deployed — built end-to-end, solo, from scratch.</p>
         </div>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {DATA.projects.map(p=>(

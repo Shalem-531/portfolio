@@ -9,7 +9,7 @@ export const DATA = {
     photo:"images/shalem.jpg",
     available:true,
     stats:[
-      {value:"2",label:"Live Projects"},
+      {value:"3",label:"Live Projects"},
       {value:"2",label:"Certifications"},
       {value:"12+",label:"Technologies"},
       {value:"2026",label:"B.Tech Graduate"},
@@ -94,7 +94,7 @@ export const DATA = {
   faqs:[
     {q:"What kind of roles are you looking for?",a:"I'm open to full-time Software Developer, Full Stack Developer, React or Node.js Developer roles, as well as internships. Available to join immediately."},
     {q:"What is your primary tech stack?",a:"MERN stack — React.js frontend with Node.js, Express.js, and MongoDB backend. I also work with Socket.IO for real-time features and Google Gemini AI for AI integration."},
-    {q:"Do you have live projects I can see?",a:"Yes! Both projects are live and deployed. Local Service Hub (AI marketplace) and Real-Time Chat App are both on Render with MongoDB Atlas as the database."},
+    {q:"Do you have live projects I can see?",a:"Yes! I have three live projects — Local Service Hub, Real-Time Chat App, and a Full Stack E-Commerce Platform."},
     {q:"Are you available for remote work?",a:"Yes, I'm open to remote, hybrid, or on-site roles anywhere in India. I'm based in Ongole, Andhra Pradesh."},
     {q:"Can I see your code?",a:"All repos are on GitHub at github.com/Shalem-531. Feel free to check the code quality and structure."},
   ],

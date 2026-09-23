@@ -44,7 +44,7 @@ function Hero(){
               <span className="cursor text-xl font-bold" style={{color:'var(--accent)'}}>|</span>
             </div>
             <p className="fade-up-3 text-base leading-relaxed mb-8 max-w-md" style={{color:'var(--muted)'}}>
-              B.Tech CSE graduate (2026) building real-world full-stack applications with React.js, Node.js, MongoDB, and AI integration. 2 live deployed projects · Open to work.
+              B.Tech CSE graduate (2026) building real-world full-stack applications with React.js, Node.js, MongoDB, and AI integration. 3 live deployed projects · Open to work.
             </p>
             <div className="fade-up-4 flex flex-wrap gap-3 mb-8">
               <a href="#projects" className="px-6 py-3 rounded-full font-semibold text-sm text-white" style={{background:'var(--accent)'}}>View Projects</a>
